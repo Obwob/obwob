@@ -47,6 +47,6 @@ Connect on LinkedIn: [Obwob](https://www.linkedin.com/company/obwob) · [Laura G
 ---
 
 <p align="center">
-  <em>Real-time feedback. Lasting evidence.</em>
+  <em>Real-time feedback. Lasting evidence.</em><br>
   <em>© Bath Spa University</em>
 </p>
