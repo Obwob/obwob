@@ -48,6 +48,5 @@ Connect on LinkedIn: [Obwob](https://www.linkedin.com/company/obwob) · [Laura G
 
 <p align="center">
   <em>Real-time feedback. Lasting evidence.</em>
-  <em><img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/4aa3ab6c-b2fd-490c-8f40-fa2321ca9075" />Bath Spa University
-</em>
+  <em>© Bath Spa University</em>
 </p>
