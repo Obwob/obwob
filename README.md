@@ -8,7 +8,7 @@ Obwob is a research-led platform for live feedback and impact evidence, designed
 
 ## What Obwob is
 
-Obwob enables facilitators to pose questions in real time and gather responses through a simple scan-and-respond flow. Participants join via QR code on their own devices — no downloads, no logins, no barriers.
+Obwob enables facilitators to pose questions in real time and gather responses through a simple scan-and-respond flow. Participants join via QR code on their own devices, with no downloads or logins required.
 
 The platform supports both facilitator-led moments (questions pushed live during sessions) and participant-led reflection (spontaneous responses when insight emerges). Optional participant accounts enable longitudinal tracking across sessions and over time — capturing evidence of change as it unfolds, not reconstructed afterwards.
 
